@@ -2,8 +2,8 @@
 
 - _Date Created_: 06 FEB 2024
 - _Last Modification Date_: 07 FEB 2024
-- _Assignment URL_:
-- _Git URL_:
+- _Assignment URL_: <https://issuestackpj.netlify.app/>
+- _Git URL_: <https://git.cs.dal.ca/kgajera/csci-5709-assignments>
 
 ## Authors
 
